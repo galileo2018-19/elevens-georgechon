@@ -50,7 +50,7 @@ public class Deck {
 	}
 
 	/**
-	 * Accesses the number of undealt cards in this deck.
+	 * Accesses the number of undealcd elevens-georgechont cards in this deck.
 	 * @return the number of undealt cards in this deck.
 	 */
 	public int size() {
